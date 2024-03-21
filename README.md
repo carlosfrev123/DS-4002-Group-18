@@ -7,9 +7,9 @@ In this section, you should provide an outline or tree illustrating the hierarch
 
 | Folder              | Files |
 | :---------------- | :------ |
-| **DATA**              | insert them here |
+| **DATA**              | players.csv, salaries_1985to2018.csv, Data Appendix.pdf |
 | **SCRIPTS**           |  Analysis.ipynb, EDA.ipynb, Master Script.ipynb   |
-| **OUTPUT**            |  insert them here |
+| **OUTPUT**            |  Average Salary by Position Over Time.png, Average Salary by Position.png, Distribution of Positions in the NBA.png, Distribution of Salary.png, Relationship bewteen Season Year and Salary for Guard Positions.png, Salary Distribution by Position.png|
 | **REFERENCES**        |  References   |
 
 
