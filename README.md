@@ -3,6 +3,7 @@ This repository contains files from Group 18's Time Series Project (Project 2)
 ## Section 1: Software and platform section
 We used Python with Jupiter Notebook. The add on packages we installed are Pandas, Numpy, SKLearn, Seaborn, and Matplotlib. We used Mac as our platform.
 ## Section 2: A Map of your documentation.
+In this section, you should provide an outline or tree illustrating the hierarchy of folders and subfolders contained in your Project Folder, and listing the files stored in each folder or subfolder.
 
 | Folder              | Files |
 | :---------------- | :------ |
